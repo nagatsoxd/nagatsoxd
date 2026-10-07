@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title">
+<title id="title">Nagatso karakter dosyası</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#15121b"/><stop offset="1" stop-color="#0d1117"/></linearGradient><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0h4" stroke="#ffffff" stroke-opacity=".025"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="338" rx="14" fill="url(#bg)" stroke="#3b2831"/><rect x="1" y="1" width="1198" height="338" rx="14" fill="url(#scan)"/>
+<path d="M1 48h1198" stroke="#3b2831"/><circle cx="27" cy="25" r="5" fill="#ff4655"/><circle cx="47" cy="25" r="5" fill="#ffbd69"/><circle cx="67" cy="25" r="5" fill="#71dca6"/>
+<g font-family="Consolas,'Courier New',monospace" font-size="17"><text x="93" y="31" fill="#8d8293" font-size="13">nagatso@github: ~/identity</text><text x="1136" y="31" fill="#ff4655" text-anchor="end" font-size="12">PROFILE CONFIG</text>
+<text x="34" y="88" fill="#ff4655">❯ <tspan fill="#eee7ef">cat nagatso.config</tspan></text>
+<text x="38" y="126" fill="#9986ad">const <tspan fill="#ede7f0">nagatso = {</tspan></text>
+<text x="66" y="161" fill="#ff8892">alias: <tspan fill="#e6d7ba">"nagatsoxd",</tspan></text>
+<text x="66" y="196" fill="#ff8892">workspace: <tspan fill="#e6d7ba">["Discord", "Web"],</tspan></text>
+<text x="66" y="231" fill="#ff8892">approach: <tspan fill="#e6d7ba">"fikirden çalışan sisteme",</tspan></text>
+<text x="66" y="266" fill="#ff8892">signature: <tspan fill="#e6d7ba">"leave a trace"</tspan></text>
+<text x="38" y="303" fill="#ede7f0">};<tspan fill="#ff4655"> ▍</tspan></text></g>
+<path d="M738 78v218" stroke="#3b2831"/>
+<g transform="translate(966 184)"><path d="M0-90 77-45v90L0 90l-77-45v-90z" fill="#ff4655" fill-opacity=".025" stroke="#ff4655" stroke-opacity=".4"/><path d="M0-68 58-34v68L0 68l-58-34v-68z" fill="none" stroke="#ff4655" stroke-opacity=".15"/><text x="0" y="24" font-family="Arial,sans-serif" font-size="70" text-anchor="middle" font-weight="900" fill="#eee7ef">N</text><path d="M-110 0h25m170 0h25M0-112v17m0 190v17" stroke="#ff4655"/></g>
+<text x="966" y="308" fill="#8d8293" font-family="Consolas,monospace" font-size="11" letter-spacing="3" text-anchor="middle">THE PERSON / THE PROCESS</text></svg>
